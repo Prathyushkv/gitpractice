@@ -1,1 +1,2 @@
 This is the a new text file that was created in a new repository
+This is the line added in the second day
