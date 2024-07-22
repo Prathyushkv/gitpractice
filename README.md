@@ -41,4 +41,18 @@ Index.html code:
 </html>
 ```
 4.	Zip HTML File: Compress the HTML file into a ZIP folder. Ensure that only the HTML file is included in the ZIP folder.
+5.	Access AWS Console: Log in to the AWS console.
+6.	Navigate to Amplify: Go to the Amplify service in the AWS console.
+7.	Create a New App: Create a new app within Amplify.
+8.	Select Hosting Option: Choose the option to host a web app without a Git provider.
+9.	Name the App: Provide a name for the app, e.g., "Power of Math".
+10.	Choose Environment: Select the environment, such as "dev".
+11.	Upload ZIP File: Upload the ZIP folder containing the HTML file to Amplify.
+12.	Save and Deploy: Save the configuration and deploy the app.
+13.	Wait for Deployment: Allow some time for the deployment process to complete.
+14.	Access Deployment Link: Once deployed successfully, access the deployed web page using the provided link.
+15.	Verify Web Page: Verify that the web page is live and accessible through the provided link.
+    We now have a live web page that users can navigate to.
+
+
 
