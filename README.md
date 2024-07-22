@@ -12,4 +12,5 @@ Welcome to AWS Exponent Engine, a user-friendly web application for exponent com
 *	DynamoDB integration is used to secure the storage of calculation results.
 *	Enhanced user experience with results displayed in a pop-up window.
 ## ARCHITECTURAL DIAGRAM
+https://github.com/Prathyushkv/gitpractice/blob/9255682151d0da54e5ab3d7acc396131bdbb81ab/AWS%20Exponent%20Engine.png
 
